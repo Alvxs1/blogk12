@@ -1,0 +1,780 @@
+*{
+    margin:0;
+    padding:50;
+}
+body{
+    background-color: #ffffff;
+    text-align:center;
+    width:1440px;
+    height: 500px;
+    
+
+    
+
+}
+.titulo{
+    position: relative;
+    left:40px;
+}
+.texto{
+    left:-50px;
+}
+.subtexto{
+    
+    padding:20px;
+}
+.imagem {
+    margin:auto;
+    position:relative;
+    margin-top:5%;
+    width:1192px;
+    height:357.08px;
+    top:-60px;
+    text-align: left;
+    padding:-100px;
+    left:-50px;
+   
+}
+.imagem img{
+width:100%;
+height:100%;
+top:500px;
+left:124px;
+text-align: left;
+
+}
+.imagem text{
+   text-align:left;
+}
+.postagem2{
+    margin:auto;
+    position:relative;
+    margin-top:5%;
+    width:1192px;
+    height:357.08px;
+    top:-1px;
+    text-align: left;
+   
+}
+.postagem2 img{
+width:200px;
+height:150px;
+top:500px;
+left:124px;
+
+}
+.titulo2  {
+ position: relative;
+ top: -350px;
+ right:120px;
+}
+.subtitulo2  {
+    position: relative;
+    
+    top: -335px;
+    right: -70px;
+   }
+   .postagem3{
+    margin:auto;
+    position:relative;
+    margin-top:5%;
+    width:1192px;
+    height:357.08px;
+    top:-300px;
+    text-align: left;
+   
+}
+.postagem3 img{
+    width:200px;
+    height:150px;
+    top:550px;
+    left:124px;
+    
+    }
+    .titulo3 {
+    position: relative;
+    top: -650px;
+    right: -10px;
+    }
+    .subtitulo3{
+        position: relative;
+        top: -625px;
+        right:-140px;
+    }
+    .data2{
+        position: relative;
+        top: -620px;
+        right: 260px;
+        
+       }
+       .separacao3{
+        position: relative;
+        right:120px;
+        top:-550px;
+       }
+       .postagem4{
+        margin:auto;
+        position:relative;
+        margin-top:5%;
+        width:1192px;
+        height:357.08px;
+        top:-600px;
+        text-align: left;
+       }
+       .postagem4 img{
+        width:200px;
+        height:150px;
+        top:550px;
+        left:124px;
+        
+        }
+        .tituloo4 {
+            position: relative;
+            top: -950px;
+            right: -10px;
+           
+            }
+            
+            .subtitulo4{
+                position: relative;
+                top:-930px;
+                right:-10px;
+            }
+            .data3{
+                position: relative;
+                top: -920px;
+                right: 260px;
+                
+            }
+
+   
+   .data{
+    position: relative;
+    top: -320px;
+    right: 260px;
+    
+   }
+   .separacao{
+    position: relative;
+    right:150px;
+    top:50px;
+   }
+   .separacao2{
+    position: relative;
+    right:150px;
+    top:-270px;
+   }
+.branco{
+    color:#66FCF1;
+}
+.logo{
+    padding:15px;
+    position:absolute;
+    top:110px;
+    right: 50px;
+    width:400px;
+    height:40px;
+    position: relative;
+
+}
+.logo img{
+width:100%;
+height: 100%;
+}
+
+.header{
+padding:15px;
+background-color: rgb(0, 0, 0);
+width:1300px;
+height:124px;
+top:110px;
+
+}
+.titulo{
+    text-align:center;
+    padding:-50px;
+    right:40px;
+   
+}
+.botao1{
+ 
+ position:absolute;
+ top:130px;
+ right:350px;
+
+
+}
+.botao2{
+    right:5px;
+ position:absolute;
+ top:130px;
+ right:250px;
+ 
+}
+.botao3{
+right:70px;
+ position:absolute;
+ top:130px;
+right: 130px;
+ border-color:#66FCF1;
+ border:20px;
+
+}
+.footer{
+    position: relative;
+    max-height: -1440px;
+    
+    width:1400px;
+    height:100px;
+    top:-700px;
+    color:white;
+    background-color: black;
+    text-align: center;
+    padding:4rem,4.5rem;
+    
+}
+.textofooter{
+    text-align: center;
+    position: relative;
+    top: 40px;
+    left: -20px;  
+}
+.logintitle{
+    position: relative;
+    text-align: center;
+    left:-30px;
+}
+.subtitlelogin{
+    position: relative;
+    left: -30px;
+}
+.cadastro{
+   position: relative;
+   top: 55px;
+   left: -200px;
+}
+.email{
+    position: relative;
+    left:60px;
+    height: 30px;
+}
+.senha{
+    position: relative;
+    left: 60px;
+    padding: 15px;
+}
+.cadastro2{
+    position: relative;
+    top: 0px;
+    left: -65px;
+    padding: 5px;
+
+}
+.enviar{
+    position: relative;
+    left:580px;
+    width: 15%;
+    padding: 15px;
+  
+}
+
+.textofooter2{
+    text-align: center;
+    position: relative;
+    left: 70px;
+    color:white;
+    background-color: black;
+    padding: 3rem,3.5rem;
+    height: 100px;
+    top: 100px;
+    text-align: center;
+}
+.textofooter text{
+    position: relative;
+    text-align: center;
+    top: 50px;
+}
+.nomee{
+    position: relative;
+    left: -138px;
+    padding: 30px;
+    top:80px;
+}
+.nome{
+    position: relative;
+   left:-200px;
+   top:100px;
+}
+
+.imagem2 img{
+    position: relative;
+    width:1194px;
+    height:575px;
+    top:100px;
+    left:-50px;
+    text-align: left;
+    
+    }
+    .texto0{
+        position: relative;
+        right: 15px;
+        top: 50px;;
+    }
+    .data0 {
+        position: relative;
+        top: 60px;
+        right: 25px;
+    }
+    .conteudo0{
+        max-width: 1000px;;
+        position: relative; 
+        top:100px;
+        left:120px;
+        font-size: 20px;
+        line-height: 30px;;
+    }
+    .comentarios0{
+        position: relative;
+        top: 180px;
+        right: 500px;
+    }
+    .usuario0{
+    position: relative;
+    top: 200px;
+    right: 350px;
+    font-size: 20px;
+    }
+    .fotoperfil0 img{
+        position:relative;
+        border:10px;
+        border-radius:50%;
+        border-color:#000000;
+        right: 570px;
+        top: 175px;
+        width: 51px;
+
+    }
+    .mensagem0{
+        position: relative;
+        font-size: 20px;
+        top:150px;
+        right: 70px;    
+    }
+    .usuario1{
+        position: relative;
+        top: 200px;
+        right: 330px;
+        font-size: 20px;
+        }
+        .fotoperfil1 img{
+            position:relative;
+            border:10px;
+            border-radius:50%;
+            border-color:#000000;
+            right: 570px;
+            top: 175px;
+            width: 51px;
+    
+        }
+        .mensagem1{
+            position: relative;
+            font-size: 20px;
+            top:150px;
+            right: 70px;    
+        }
+        .usuario2{
+            position: relative;
+            top: 30px;
+            right: 263px;
+            font-size: 20px;
+            }
+            .fotoperfil2 img{
+                position:relative;
+                border:10px;
+                border-radius:50%;
+                border-color:#000000;
+                right: 500px;
+                top: 10px;
+                width: 51px;
+        
+            }
+            .mensagem2{
+                position: relative;
+                font-size: 20px;
+                top: -20px;
+                right: -60px;    
+            }
+            .usuario3{
+                position: relative;
+                top: 10px;
+                right: 300px;
+                font-size: 20px;
+                }
+                .fotoperfil3 img{
+                    position:relative;
+                    border:10px;
+                    border-radius:50%;
+                    border-color:#000000;
+                    right: 500px;
+                    top: -10px;
+                    width: 51px;
+            
+                }
+                .mensagem3{
+                    position: relative;
+                    font-size: 20px;
+                    top:-45px;
+                    right: -35px;    
+                }
+                .usuario4{
+                    position: relative;
+                    top: -5px;
+                    right: 250px;
+                    font-size: 20px;
+                    }
+                    .fotoperfil4 img{
+                        position:relative;
+                        border:10px;
+                        border-radius:50%;
+                        border-color:#000000;
+                        right: 500px;
+                        top: -30px;
+                        width: 51px;
+                
+                    }
+                    .mensagem4{
+                        position: relative;
+                        font-size: 20px;
+                        top:-60px;
+                        right: 35px;    
+                    }
+                    .usuario01{
+                        position: relative;
+                        top: 200px;
+                        right: 360px;
+                        font-size: 20px;
+                        }
+                        .fotoperfil01 img{
+                            position:relative;
+                            border:10px;
+                            border-radius:50%;
+                            border-color:#000000;
+                            right: 580px;
+                            top: 180px;
+                            width: 51px;
+                    
+                        }
+                        .mensagem01{
+                            position: relative;
+                            font-size: 20px;
+                            top:150px;
+                            right: 195px;    
+                        }
+                        .usuario02{
+                            position: relative;
+                            top: 320px;
+                            right: 340px;
+                            font-size: 20px;
+                            }
+                            .fotoperfil02 img{
+                                position:relative;
+                                border:10px;
+                                border-radius:50%;
+                                border-color:#000000;
+                                right: 580px;
+                                top: 150px;
+                                width: 51px;
+                        
+                            }
+                            .mensagem02{
+                                position: relative;
+                                font-size: 20px;
+                                top: 270px;
+                                right: 20px;    
+                            }
+                            .usuario03{
+                                position: relative;
+                                top: 145px;
+                                right: 340px;
+                                font-size: 20px;
+                                }
+                                .fotoperfil03 img{
+                                    position:relative;
+                                    border:10px;
+                                    border-radius:50%;
+                                    border-color:#000000;
+                                    right: 580px;
+                                    top: 120px;
+                                    width: 51px;
+                            
+                                }
+                                .mensagem03{
+                                    position: relative;
+                                    font-size: 20px;
+                                    top: 90px;
+                                    right: 210px;    
+                                }
+                                .usuario04{
+                                    position: relative;
+                                    top: -30px;
+                                    right: 325px;
+                                    font-size: 20px;
+                                    }
+                                    .fotoperfil04 img{
+                                        position:relative;
+                                        border:10px;
+                                        border-radius:50%;
+                                        border-color:#000000;
+                                        right: 580px;
+                                        top: 100px;
+                                        width: 51px;
+                                
+                                    }
+                                    .mensagem04{
+                                        position: relative;
+                                        font-size: 20px;
+                                        top:-75px;
+                                        right: 35px;    
+                                    }
+                                    .usuario05{
+                                        position: relative;
+                                        top: 90px;
+                                        right: 340px;
+                                        font-size: 20px;
+                                        }
+                                        .fotoperfil05 img{
+                                            position:relative;
+                                            border:10px;
+                                            border-radius:50%;
+                                            border-color:#000000;
+                                            right: 580px;
+                                            top: 70px;
+                                            width: 51px;
+                                    
+                                        }
+                                        .mensagem05{
+                                            position: relative;
+                                            font-size: 20px;
+                                            top:35px;
+                                            right: 80px;    
+                                        }
+                                        .usuario010{
+                                            position: relative;
+                                            top: 200px;
+                                            right: 340px;
+                                            font-size: 20px;
+                                            }
+                                            .fotoperfil010 img{
+                                                position:relative;
+                                                border:10px;
+                                                border-radius:50%;
+                                                border-color:#000000;
+                                                right: 580px;
+                                                top: 180px;
+                                                width: 51px;
+                                        
+                                            }
+                                            .mensagem010{
+                                                position: relative;
+                                                font-size: 20px;
+                                                top:150px;
+                                                right: 240px;    
+                                            }
+                                            .usuario020{
+                                                position: relative;
+                                                top: 170px;
+                                                right: 345px;
+                                                font-size: 20px;
+                                                }
+                                                .fotoperfil020 img{
+                                                    position:relative;
+                                                    border:10px;
+                                                    border-radius:50%;
+                                                    border-color:#000000;
+                                                    right: 580px;
+                                                    top: 70px;
+                                                    width: 51px;
+                                            
+                                                }
+                                                .mensagem020{
+                                                    position: relative;
+                                                    font-size: 20px;
+                                                    top:120px;
+                                                    right: 160px;    
+                                                }.usuario030{
+                                                    position: relative;
+                                                    top: 140px;
+                                                    right: 335px;
+                                                    font-size: 20px;
+                                                    }
+                                                    .fotoperfil030 img{
+                                                        position:relative;
+                                                        border:10px;
+                                                        border-radius:50%;
+                                                        border-color:#000000;
+                                                        right: 580px;
+                                                        top: 70px;
+                                                        width: 51px;
+                                                
+                                                    }
+                                                    .mensagem030{
+                                                        position: relative;
+                                                        font-size: 20px;
+                                                        top:90px;
+                                                        right: 210px;    
+                                                    }.usuario040{
+                                                        position: relative;
+                                                        top: 115px;
+                                                        right: 400px;
+                                                        font-size: 20px;
+                                                        }
+                                                        .fotoperfil040 img{
+                                                            position:relative;
+                                                            border:10px;
+                                                            border-radius:50%;
+                                                            border-color:#000000;
+                                                            right: 580px;
+                                                            top: 70px;
+                                                            width: 51px;
+                                                    
+                                                        }
+                                                        .mensagem040{
+                                                            position: relative;
+                                                            font-size: 20px;
+                                                            top:65px;
+                                                            right: 45px;    
+                                                        }
+                                                        .usuario050{
+                                                            position: relative;
+                                                            top: 90px;
+                                                            right: 390px;
+                                                            font-size: 20px;
+                                                            }
+                                                            .fotoperfil05 img{
+                                                                position:relative;
+                                                                border:10px;
+                                                                border-radius:50%;
+                                                                border-color:#000000;
+                                                                right: 580px;
+                                                                top: 70px;
+                                                                width: 51px;
+                                                        
+                                                            }
+                                                            .mensagem050{
+                                                                position: relative;
+                                                                font-size: 20px;
+                                                                top:35px;
+                                                                right: 140px;    
+                                                            }
+                                                            .usuario0101{
+                                                                position: relative;
+                                                                top: 200px;
+                                                                right: 410px;
+                                                                font-size: 20px;
+                                                                }
+                                                                .fotoperfil05 img{
+                                                                    position:relative;
+                                                                    border:10px;
+                                                                    border-radius:50%;
+                                                                    border-color:#000000;
+                                                                    right: 580px;
+                                                                    top: 70px;
+                                                                    width: 51px;
+                                                            
+                                                                }
+                                                                .mensagem0101{
+                                                                    position: relative;
+                                                                    font-size: 20px;
+                                                                    top:150px;
+                                                                    right: 210px;    
+                                                                }
+                                                                .usuario0202{
+                                                                    position: relative;
+                                                                    top: 170px;
+                                                                    right: 375px;
+                                                                    font-size: 20px;
+                                                                    }
+                                                                    .fotoperfil05 img{
+                                                                        position:relative;
+                                                                        border:10px;
+                                                                        border-radius:50%;
+                                                                        border-color:#000000;
+                                                                        right: 580px;
+                                                                        top: 70px;
+                                                                        width: 51px;
+                                                                
+                                                                    }
+                                                                    .mensagem0202{
+                                                                        position: relative;
+                                                                        font-size: 20px;
+                                                                        top:120px;
+                                                                        right: 105px;    
+                                                                    }
+                                                                    .usuario0303{
+                                                                        position: relative;
+                                                                        top: 140px;
+                                                                        right: 370px;
+                                                                        font-size: 20px;
+                                                                        }
+                                                                        .fotoperfil05 img{
+                                                                            position:relative;
+                                                                            border:10px;
+                                                                            border-radius:50%;
+                                                                            border-color:#000000;
+                                                                            right: 580px;
+                                                                            top: 70px;
+                                                                            width: 51px;
+                                                                    
+                                                                        }
+                                                                        .mensagem0303{
+                                                                            position: relative;
+                                                                            font-size: 20px;
+                                                                            top:90px;
+                                                                            right: 170px;    
+                                                                        }
+                                                                        .usuario0404{
+                                                                            position: relative;
+                                                                            top: 120px;
+                                                                            right: 340px;
+                                                                            font-size: 20px;
+                                                                            }
+                                                                            .fotoperfil05 img{
+                                                                                position:relative;
+                                                                                border:10px;
+                                                                                border-radius:50%;
+                                                                                border-color:#000000;
+                                                                                right: 580px;
+                                                                                top: 70px;
+                                                                                width: 51px;
+                                                                        
+                                                                            }
+                                                                            .mensagem0404{
+                                                                                position: relative;
+                                                                                font-size: 20px;
+                                                                                top:65px;
+                                                                                right: 65px;    
+                                                                            }
+                                                                            .usuario0505{
+                                                                                position: relative;
+                                                                                top: 200px;
+                                                                                right: 410px;
+                                                                                font-size: 20px;
+                                                                                }
+                                                                                .fotoperfil05 img{
+                                                                                    position:relative;
+                                                                                    border:10px;
+                                                                                    border-radius:50%;
+                                                                                    border-color:#000000;
+                                                                                    right: 580px;
+                                                                                    top: 70px;
+                                                                                    width: 51px;
+                                                                            
+                                                                                }
+                                                                                .mensagem0505{
+                                                                                    position: relative;
+                                                                                    font-size: 20px;
+                                                                                    top:40px;
+                                                                                    right: 240px;    
+                                                                                }
+                                                                
+                                
